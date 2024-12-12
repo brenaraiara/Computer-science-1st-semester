@@ -1,1 +1,1 @@
-# Computer-science-1st-semester
+# Computer Science, 1st semester
